@@ -34,8 +34,6 @@ public class JavaScriptExp {
 //	  js.executeScript("arguments[0].value=arguments[1]", ele,"sample");
 //	  js.executeScript("arguments[0].click();", btn);
 	  
-	
-	  js.executeScript("alert('helo azar');" );
 	  
 	  
   }
